@@ -9,7 +9,7 @@ switch (numOrStr) {
         console.log('Empty String');
         break;
     case !isNaN(numOrStr) || numOrStr:
-        console.log('number is Ba_NaN')
+        console.log('number is Ba_NaN');
         break;
     default:
         console.log('OK!');
